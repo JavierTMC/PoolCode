@@ -1,0 +1,41 @@
+﻿body
+{
+    background:#999;
+    font-family:Arial;
+}
+
+h1
+{
+    text-align:center;
+}
+
+h1,h2,p,li
+{
+    color:#555;
+}
+
+a
+{   
+    color:green;
+}
+.secundary /* this is a class and is not overriden -- it can apply to multiple things*/
+{
+    background:none;
+    color:#777;
+}
+
+p
+{
+    background:#666;
+    color:white;
+    padding:10px; /*can put 4 parameters. clock */
+}
+
+#special 
+{
+    background:#2eb55e;
+    color:#000;
+    font-size:small;
+    font-family:Consolas;
+    text-align:center;
+}

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C65F96F7-8619-47F4-AE06-E17A22B66F67}"
+	ProjectSection(SolutionItems) = preProject
+		BootStrapLayout.html = BootStrapLayout.html
+		index.html = index.html
+		layout.html = layout.html
+		Page2.html = Page2.html
+		Page3.html = Page3.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "styles", "{9E7458D7-0490-4A47-88BD-D2640F2CA42C}"
+	ProjectSection(SolutionItems) = preProject
+		bootStrapMain.css = bootStrapMain.css
+		layoutMain.css = layoutMain.css
+		main.css = main.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E7458D7-0490-4A47-88BD-D2640F2CA42C} = {C65F96F7-8619-47F4-AE06-E17A22B66F67}
+	EndGlobalSection
+EndGlobal
