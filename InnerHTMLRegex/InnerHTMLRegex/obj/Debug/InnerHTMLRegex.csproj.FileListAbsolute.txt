@@ -1,0 +1,6 @@
+C:\Users\JTMC\Documents\Visual Studio 2012\Projects\InnerHTMLRegex\InnerHTMLRegex\bin\Debug\InnerHTMLRegex.exe.config
+C:\Users\JTMC\Documents\Visual Studio 2012\Projects\InnerHTMLRegex\InnerHTMLRegex\bin\Debug\InnerHTMLRegex.exe
+C:\Users\JTMC\Documents\Visual Studio 2012\Projects\InnerHTMLRegex\InnerHTMLRegex\bin\Debug\InnerHTMLRegex.pdb
+C:\Users\JTMC\Documents\Visual Studio 2012\Projects\InnerHTMLRegex\InnerHTMLRegex\obj\Debug\InnerHTMLRegex.csprojResolveAssemblyReference.cache
+C:\Users\JTMC\Documents\Visual Studio 2012\Projects\InnerHTMLRegex\InnerHTMLRegex\obj\Debug\InnerHTMLRegex.exe
+C:\Users\JTMC\Documents\Visual Studio 2012\Projects\InnerHTMLRegex\InnerHTMLRegex\obj\Debug\InnerHTMLRegex.pdb
